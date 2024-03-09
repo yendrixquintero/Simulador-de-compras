@@ -1,0 +1,32 @@
+
+body {
+    background-color: #ffdce5; 
+}
+
+#titulo {
+    color: #ff007f; 
+    font-family: 'Courier New', monospace; 
+}
+
+#consola {
+    background-color: #ffe6f0; 
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.carrito {
+    color: #ff007f; 
+}
+
+.acciones {
+    color: #ff007f; 
+}
+
+
+.carrito:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 127, 0.7); 
+}
+
+.prompt:hover {
+    text-shadow: 2px 2px 4px rgba(255, 0, 127, 0.7); 
+}
